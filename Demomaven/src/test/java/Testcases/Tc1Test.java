@@ -1,8 +1,7 @@
 package Testcases;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
-import org.testng.annotations.Test;
+
 
 public class Tc1Test {
 	@Test
